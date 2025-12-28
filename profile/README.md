@@ -12,6 +12,12 @@ Vetra is the world’s first cessation-focused vape, combining enforced usage li
 
 ---
 
+## Recognition
+- Runner-up, V2RF Pitch Competition (2025)
+- Round-2, New Ventures BC (2025)
+
+---
+
 ## The product, in one minute 
 
 Vetra is designed around three ideas: 
@@ -188,12 +194,6 @@ This is the “portfolio path” to understand Vetra end-to-end.
 - Enable cloud sync in the app and verify:
   - event ingestion succeeds
   - rollups query returns expected daily totals
-
----
-
-## Recognition
-- Runner-up, V2RF Pitch Competition (2025)
-- Round-2, New Ventures BC (2025)
 
 ---
 
