@@ -2,10 +2,10 @@
 
 **Built by Adeesh Devanand.**
 
-Vetra is a **connected-device wellness system** built around a simple idea: **measure real usage, set a limit, and make the limit enforceable**. It combines a **Bluetooth-connected device**, an **iOS companion app**, and a **serverless AWS backend** that work together to help users **track usage**, **set limits**, and **enforce an auto-lock when limits are reached**—with room to expand into gradual reduction plans and longer-term behavior change features.
+Vetra is the world’s first cessation-focused vape, combining enforced usage limits and behavioral support to help users intentionally quit nicotine.. It combines a **Bluetooth-connected device**, an **iOS companion app**, and a **serverless AWS backend** that work together to help users **track usage**, **set limits**, and **enforce an auto-lock when limits are reached**—with room to expand into gradual reduction plans and longer-term behavior change features.
 
 **Links**
-- Product site: https://myvetra.ca  
+- Homepage: https://myvetra.ca  
 - iOS app repo: https://github.com/my-vetra/app-ios  
 - Firmware repo: https://github.com/my-vetra/vape-firmware  
 - Cloud backend repo: https://github.com/my-vetra/cloud-aws  
